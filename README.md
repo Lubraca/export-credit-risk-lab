@@ -14,9 +14,8 @@ This is an open laboratory for experimenting with ETL design, fuzzy matching wit
 - Text normalization and entity handling  
 - Explicit assumptions and reproducibility  
 
-[ ] Phase 2 — BNDES Export Financing Data  
-- Retrieve public export financing data via BNDES API  
-- Standardize entities, dates, and contract attributes  
+[✓] Phase 2 — BNDES Export Financing Data  
+- Standardize entities, dates, and contract attributes
 - Treat financing as exposure proxy  
 
 [ ] Phase 3 — Probabilistic Record Linkage  
