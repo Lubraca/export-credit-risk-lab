@@ -18,14 +18,12 @@ This is an open laboratory for experimenting with ETL design, fuzzy matching wit
 - Standardize entities, dates, and contract attributes
 - Treat financing as exposure proxy  
 
-[ ] Phase 3 — Probabilistic Record Linkage  
+[✓] Phase 3 — Probabilistic Record Linkage  
 - Fuzzy matching between claims and financing datasets  
 - Similarity scores and confidence thresholds  
-- Explicit handling of unmatched records  
 
-[ ] Phase 4 — Unified Analytical Dataset  
+[✓] Phase 4 — Unified Analytical Dataset  
 - Merge claims and financing into a single table  
-- Preserve linkage uncertainty  
 - Enable exploratory analysis  
 
 [ ] Phase 5 — Exploratory Analysis & Modeling  
